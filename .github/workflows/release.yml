@@ -5,7 +5,7 @@ name: releasen
 
 on:
   push:
-    branches: [ gpr ]
+    branches: [ master ]
 
 jobs:
   publish-gpr:
